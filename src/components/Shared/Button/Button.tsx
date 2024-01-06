@@ -1,31 +1,21 @@
-import React, { ReactNode } from "react";
+import { BaseButtonProps } from "@radix-ui/themes/dist/cjs/components/base-button";
+import { ButtonStyled } from "@components/Shared/Button/Button.styled";
+import Link from "@components/Shared/Link";
+import React from "react";
 
-import { ButtonStyled } from "./Button.styled";
-import Link from "next/link";
-
-Link;
-
-interface ButtonProps {
-  buttonType?: "primary" | "secondary" | "transparent";
-  children: ReactNode | ReactNode[];
+interface ButtonProps extends BaseButtonProps {
   href?: string;
   target?: string;
 }
 
-const Button: React.FC<ButtonProps> = ({
-  buttonType,
-  children,
-  href,
-  target,
-}) => {
+const Button: React.FC<ButtonProps> = (props) => {
   return (
-    <ButtonStyled
-      href={href}
-      buttonType={buttonType}
-      as={href ? Link : "button"}
-      target={target}
-    >
-      {children}
+    <ButtonStyled size="3" {...props} asChild>
+      {props.href && (
+        <Link href={props.href} target={props.target}>
+          {props.children}
+        </Link>
+      )}
     </ButtonStyled>
   );
 };

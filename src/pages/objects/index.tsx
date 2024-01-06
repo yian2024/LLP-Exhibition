@@ -1,6 +1,6 @@
 import CanopyMDXRemote from "@src/components/MDX";
 import { FrontMatterPageProps } from "@customTypes/content";
-import LayoutsBasic from "@src/components/Layouts/Basic";
+import LayoutsBasicSidebar from "@src/components/Layouts/BasicSidebar";
 import { buildContentSEO } from "@src/lib/seo";
 import { getMarkdownContent } from "@lib/contentHelpers";
 
@@ -9,17 +9,16 @@ import { getMarkdownContent } from "@lib/contentHelpers";
  * This path is relative to the [root]/content/ directory. Modify this value
  * to change the directory that is used to generate the page.
  */
-const CONTENT_DIRECTORY = "objects";
+const CONTENT_DIRECTORY = "Objects";
 
 /**
  * This is a page that is generated from a Markdown file.
  */
 const ContentPage = ({ source, frontMatter }: FrontMatterPageProps) => {
   return (
-    <LayoutsBasic
-      content={<CanopyMDXRemote {...source} />}
-      frontMatter={frontMatter}
-    />
+    <LayoutsBasicSidebar frontMatter={frontMatter}>
+      <CanopyMDXRemote source={source} />
+    </LayoutsBasicSidebar>
   );
 };
 
