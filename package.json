@@ -32,6 +32,7 @@
     "copy-to-clipboard": "^3.3.3",
     "flexsearch": "^0.7.31",
     "framer-motion": "^10.9.4",
+    "gatsby-remark-images-grid-v4": "^1.2.3",
     "gray-matter": "^4.0.3",
     "leaflet": "^1.9.3",
     "leaflet.markercluster": "^1.5.3",
