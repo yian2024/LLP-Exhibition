@@ -12,11 +12,11 @@
         "text": "Tray with design of snake"
       },
       {
-        "path": "/objects/necklace-of-beads",
-        "text": "Belt or necklace of 4 panels of beads, with text"
-      },
-      {
         "path": "/objects/applique-panel",
         "text": "Appliqué panel (obelisk, pyramids, sphinx, palm tree, person, camels)"
+      },
+      {
+        "path": "/objects/necklace-of-beads",
+        "text": "Belt or necklace of 4 panels of beads, with text"
       }
   ]
