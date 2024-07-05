@@ -5,11 +5,10 @@ import { styled } from "@styles/stitches";
 
 const AsideFixedContent = styled("div", {
   position: "fixed",
-  width: "275px",
+  width: "13%",
   paddingTop: "calc($gr4 + $gr3)",
   marginTop: "-$gr4",
   maxHeight: `calc(100% - $gr5 - ${headerHeight}px)`,
-  overflow: "scroll",
 
   "@xs": {
     position: "relative",
