@@ -1,6 +1,6 @@
 {
     "@context": "https://iiif.io/api/presentation/3/context.json",
-    "id": "https://canopy-iiif.github.io/canopy-iiif/api/facet/date/1910.json",
+    "id": https://llp-iiif.github.io/LLP-Exhibition/config/homepage.json,
     "type": "Collection",
     "label": {
       "none": [
