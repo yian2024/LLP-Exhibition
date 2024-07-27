@@ -1,6 +1,6 @@
 {
     "@context": "https://iiif.io/api/presentation/3/context.json",
-    "id": https://llp-iiif.github.io/LLP-Exhibition/config/homepage.json,
+    "id": "https://llp-iiif.github.io/LLP-Exhibition/content/homepage.json",
     "type": "Collection",
     "label": {
       "none": [
