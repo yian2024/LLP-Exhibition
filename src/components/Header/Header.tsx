@@ -41,7 +41,7 @@ const Header = () => {
         >
           <Heading
             as="h1"
-            size="5"
+            size="6"
             weight="medium"
             style={{ fontFamily: "var(--canopy-display-font)" }}
           >
@@ -54,7 +54,6 @@ const Header = () => {
           </button>
         </ResponsiveActions>
         <Actions showNav={showNav}>
-          <Search />
           {navigation && <Nav items={navigation} />}
           <Locale />
         </Actions>
