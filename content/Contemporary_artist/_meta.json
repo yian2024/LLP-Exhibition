@@ -1,0 +1,18 @@
+[
+   {
+        "path": "/Contemporary_artist",
+        "text": "Introduction"
+      },
+    {
+        "path": "/Contemporary_artist/Congo",
+        "text": "Belgian Congo"
+      },
+    {
+        "path": "/Contemporary_artist/southAfrica",
+        "text": "South Africa"
+    },
+    {
+      "path": "/Contemporary_artist/Kenya",
+      "text": "Kenya"
+    }
+  ]
