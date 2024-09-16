@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[2262],{2262:function(t){t.exports=JSON.parse('[{"path":"/Congo","text":"Belgian Congo"},{"path":"/Congo/contemporary_artists","text":"Contemporary Artists"}]')}}]);
