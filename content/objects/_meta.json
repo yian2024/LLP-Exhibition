@@ -1,7 +1,7 @@
 [
     {
       "path": "/objects",
-      "text": "Objects"
+      "text": "Mementos"
     },
     {
       "path": "/objects/leopard-skin-purse",
@@ -10,13 +10,37 @@
     {
         "path": "/objects/tray-with-snake",
         "text": "Tray with design of snake"
-      },
-      {
+    },
+    {
         "path": "/objects/applique-panel",
         "text": "Appliqué panel (obelisk, pyramids, sphinx, palm tree, person, camels)"
-      },
-      {
+    },
+    {
         "path": "/objects/necklace-of-beads",
         "text": "Belt or necklace of 4 panels of beads, with text"
-      }
+    },
+    {
+        "path": "/objects/spoon-knife-fork",
+        "text": "Spoon, knife, and fork with finials of a kneeling woman"
+    },
+    {
+        "path": "/objects/doll",
+        "text": "Doll"
+    },
+    {
+        "path": "/objects/bows",
+        "text": "Bows"
+    },
+    {
+        "path": "/objects/standing-man",
+        "text": "Standing man holding spear and shield"
+    },
+    {
+        "path": "/objects/head-of-woman",
+        "text": "Head of Woman"
+    },
+    {
+        "path": "/objects/tea-set",
+        "text": "Tea set"
+    }
   ]

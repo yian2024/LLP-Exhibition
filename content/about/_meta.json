@@ -1,10 +1,14 @@
 [
   {
     "path": "/about",
-    "text": "About"
+    "text": "Making"
   },
   {
     "path": "/about/contributor",
     "text": "Contributors"
+  },
+  {
+    "path": "/about/reflections",
+    "text": "Reflections"
   }
 ]
