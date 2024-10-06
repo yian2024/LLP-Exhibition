@@ -1,18 +1,18 @@
 [
   {
-    "path": "/objects",
+    "path": "/Mementos",
     "text": "Mementos"   
   },
   {
-    "path": "/ArcGISmap",
+    "path": "/Map",
     "text": "Map"
   },
   {
-    "path": "/Contemporary_artist",
+    "path": "/Makers",
     "text": "Makers"
   },
   {
-    "path": "/about",
+    "path": "/Making",
     "text": "Making"
   }
 ]

@@ -1,0 +1,22 @@
+[
+   {
+        "path": "/Makers",
+        "text": "Introduction"
+      },
+    {
+        "path": "/Makers/Congo",
+        "text": "Belgian Congo"
+      },
+    {
+        "path": "/Makers/southAfrica",
+        "text": "South Africa"
+    },
+    {
+      "path": "/Makers/Kenya",
+      "text": "Kenya"
+    },
+    {
+      "path": "/Makers/Egypt",
+      "text": "Egypt"
+    }
+  ]
