@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://LLP-IIIF.github.io/LLP-Exhibition
+Host: https://LLP-IIIF.github.io/AnAmericansAfrica
 
 # Sitemaps
-Sitemap: https://LLP-IIIF.github.io/LLP-Exhibition/sitemap.xml
+Sitemap: https://LLP-IIIF.github.io/AnAmericansAfrica/sitemap.xml
