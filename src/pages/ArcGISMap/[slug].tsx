@@ -11,7 +11,7 @@ import { buildContentSEO } from "@src/lib/seo";
  * This path is relative to the [root]/content/ directory. Modify this value
  * to change the directory that is used to generate pages.
  */
-const CONTENT_DIRECTORY = "Map";
+const CONTENT_DIRECTORY = "ArcGISMap";
 
 /**
  * This is a page that is generated from a Markdown file.
