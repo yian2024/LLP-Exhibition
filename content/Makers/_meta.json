@@ -5,19 +5,35 @@
       },
     {
         "path": "/Makers/Congo",
-        "text": "Belgian Congo"
+        "text": "Belgian Congo Artists"
+      },
+    {
+        "path": "/Makers/Congo_res",
+        "text": "Belgian Congo Resources"
       },
     {
         "path": "/Makers/southAfrica",
-        "text": "South Africa"
+        "text": "South Africa Artists"
+    },    
+    {
+      "path": "/Makers/southAfrica_res",
+      "text": "South Africa Resources"
     },    
     {
       "path": "/Makers/Kenya",
-      "text": "Kenya"
+      "text": "Kenya Artists"
+    },
+    {
+      "path": "/Makers/Kenya_res",
+      "text": "Kenya Resources"
     },
     {
       "path": "/Makers/Egypt",
-      "text": "Egypt"
+      "text": "Egypt Artists"
+    },
+    {
+      "path": "/Makers/Egypt_res",
+      "text": "Egypt Resources"
     }
   ]
 
