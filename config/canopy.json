@@ -1,16 +1,18 @@
 {
   "collection": "https://api.dc.library.northwestern.edu/api/v2/search?query=collection.id%3Aa2d334d8-8ea7-4dca-a65a-25509b76283c%20AND%20id%3D32fe4b01-c9a1-4436-827f-7d840ce125dbAND4d159d07-98e6-43c4-bba2-171a6aa906dcAND844a892d-a595-4727-a71d-41e69ad07f0fANDd4e3d25a-acc4-498c-8a26-c07f3c2ee46aAND581ee781-3f03-4fc0-8f44-013c241fab93ANDf09d0bf6-86dc-4b59-a8d3-42cc3a2b7d1fANDc8eec63b-7bb5-4d24-bc2d-251e2452bd11ANDd6bc7c03-49f0-4c2d-a6c8-32b25b45d29fAND531a8735-7dc5-4308-8921-a330cd0a8696ANDc8e48724-a514-4cb1-a338-e4a821b2fc1eAND7b242c48-d70e-4532-ad2f-d6906d2a01e0AND835d25ee-00e7-4150-834a-1fa78254be32ANDb2538ecd-f398-4802-a2c0-b49f419467a1&as=iiif&size=25",
- "search": {
+  "search": {
     "enabled": false
   },
-  "metadata": ["Contributor","Date","Genre"],
-    "label": {
-      "none": ["An American's Africa"]
-    },
-    "summary": {
-      "none": [
-        "Artifacts and other objects collected during Lydia Pederson's 1953 trip from Capetown, South Africa to Cairo, Egypt, and during Sonjia and Jim Olstad's 1967 stay in Nigeria: primarily beadwork, sculpture, carved calabashes, jewelry, and textiles. The collection includes a small amount of related material."
-      ]
-    }
-
+  "metadata": ["Contributor", "Date", "Genre"],
+  "label": {
+    "none": ["An American's Africa"]
+  },
+  "summary": {
+    "none": [
+      "Artifacts and other objects collected during Lydia Pederson's 1953 trip from Capetown, South Africa to Cairo, Egypt, and during Sonjia and Jim Olstad's 1967 stay in Nigeria: primarily beadwork, sculpture, carved calabashes, jewelry, and textiles. The collection includes a small amount of related material."
+    ]
+  },
+  "theme": {
+    "accentColor": "purple"
+  }
 }
